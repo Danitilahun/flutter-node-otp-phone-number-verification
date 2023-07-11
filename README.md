@@ -7,7 +7,7 @@
 ## Overview
 
 
-![MergedImages](https://github.com/Danitilahun/flutter-node-otp-phone-number-verification/assets/106193338/f6aecc15-b1bc-40d6-9e9b-45435f629259)
+![MergedImages](https://github.com/Danitilahun/flutter-node-otp-phone-number-verification/assets/106193338/5db85b80-59ab-4eaf-b78e-fc71188cf612)
 
 
 This project demonstrates how to implement phone number authentication using Node.js, Flutter, and the Vonage SMS Gateway Service API. Phone number authentication provides a secure and convenient way for users to verify their identity during the login process.
