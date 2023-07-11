@@ -17,5 +17,5 @@ app.get("/", (req, res) => {
 app.use("/auth", otpRoutes);
 
 app.listen(port || 3000, function () {
-  console.log("Ready to Go!");
+  console.log("server is running on port 3000");
 });
