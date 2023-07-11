@@ -38,7 +38,7 @@ This project demonstrates how to implement phone number authentication using Nod
 2. Navigate to the `backend` directory: `cd API`
 3. Install dependencies: `npm install`
 4. Configure the Vonage API credentials in the `.env` file.
-5. Start the Node.js server: `npm index.js`
+5. Start the Node.js server: `npm start`
 
 ### Frontend (Flutter)
 
