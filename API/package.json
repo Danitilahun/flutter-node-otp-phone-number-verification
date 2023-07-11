@@ -1,0 +1,20 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "repository": "https://github.com/Danitilahun/flutter-node-otp-phone-number-verification.git",
+  "description": "The Flutter-Node-Vonage OTP Verification project is a full-stack solution that provides phone number verification using One-Time Password (OTP) for user authentication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Daniel Tilahun",
+  "license": "ISC",
+  "dependencies": {
+    "@vonage/server-sdk": "^3.6.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "otp-generator": "^4.0.1"
+  }
+}
